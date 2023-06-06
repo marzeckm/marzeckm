@@ -50,7 +50,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marzeckm&theme=transparent" />
   </a>
   <a href="https://github.com/marzeckm">
-    <img src="https://github-readme-stats.vercel.app/api?username=marzeckm&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzeckm&theme=radical" />
   </a>
 </p>
 </details>
