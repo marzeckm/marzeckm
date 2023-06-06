@@ -49,9 +49,7 @@
   <a href="https://github.com/marzeckm">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marzeckm&theme=transparent" />
   </a>
-  <a href="https://github.com/marzeckm">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzeckm&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+  [![MarzeckM's GitHub stats](https://github-readme-stats.vercel.app/api?username=marzeckm)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 </details>
 
